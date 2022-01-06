@@ -24,12 +24,18 @@
 <!-- C++--><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </a>
 <!-- Java--><a href="https://git-scm.com/"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> </a> </img>
 
-<img>
+<br/>
+<br/>
+
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mezbah101&show_icons=true&theme=dracula"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mezbah101&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img>
+<br/>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezbah101&label=Profile%20views&color=0e75b6&style=flat" alt="mezbah101" /> </p>
+
+
 
