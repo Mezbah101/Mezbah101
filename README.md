@@ -27,13 +27,22 @@
 <br/>
 <br/>
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mezbah101&show_icons=true&theme=dark"/>
+<!-- States--> <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=mezbah101&show_icons=true&theme=dark"/>
+<!-- Top Languages--> <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezbah101&layout=compact&theme=dark"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mezbah101&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- To Make a Gaph from the previous section-->
 <br/>
+<br/>
+<br/>
+<br/>
+<img/> <img/> <img/>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+
+
+ <b>Offering You a Beautiful Quote Before Leaving:-</b>
+<!-- Quotes--> <img align="" src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mezbah101&label=Profile%20views&color=0e75b6&style=flat" alt="mezbah101" /> </p>
 
