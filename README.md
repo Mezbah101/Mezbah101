@@ -1,7 +1,7 @@
 <h1 align="center">Hello Aliens! I'm Mezbah Ahmed Mahedi</h1>
 <h3 align="center">A Passionate Learner</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2337E9FA&width=655&lines=Currently+Learning++Full+Stack(MERN);A+Student+of+Information+%26+Communication+Engineering+(ICE);Always+in+Search+of+New+Ideas+and+Implementations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2337E9FA&width=655&lines=Currently+Learning++Full+Stack+(MERN);A+Student+of+Information+%26+Communication+Engineering+(ICE);Always+in+Search+of+New+Ideas+%26+their+Implementations!)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
